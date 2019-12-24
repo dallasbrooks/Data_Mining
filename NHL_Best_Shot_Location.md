@@ -26,7 +26,7 @@ A linear search is being used to evaluate if a goal has occurred, if it has then
 
 It has been discovered that the best place to shoot from is 75 X and 0 Y. In figure 1, the ranking of all the different types of shots can be seen, along with the expected percentage of scoring chance. In figures 3 to 6, the heatmaps for the more common shot types can be seen. It was discovered that effectiveness of each shot is as follows: Slap Shot = 5.898%, Snap Shot = 9.451%, Wrist Shot = 8.994%, Wrap Around = 6.358%, Tip-In = 18.239%, Backhand = 11.387%, and Deflected = 19.877%.
 
-![Shot Effectiveness](img/Shot_Effectivenss.png)
+![Shot Effectiveness](img/Shot_Effectiveness.png)
 
 Figure 1: Bar Graph for Shots Effectiveness
 
