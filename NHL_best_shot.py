@@ -156,17 +156,11 @@ for line in f:
 
 f.close()
 
-#
-# Do something to data
-#
-
-# Print goal averages for each type of shot
 print_goal_averages()
 
 # Print time to find data and print averages
 print("Time: " + str((time.time()-t0)/60))
 
-# Show bar graph of # goals vs # shots for each shot type
 goals_shots_bar_graph()
 
 # Show heat map of the given shot type
